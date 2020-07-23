@@ -1,0 +1,49 @@
+body {
+    font-family: 'Roboto', serif;
+}
+
+h1,
+h6 {
+    text-align: center;
+}
+
+.logo_pl {
+    height: 300px;
+    margin-bottom: 30px;
+}
+
+.team_picture,
+.coach_pic {
+    width: 100%;
+}
+
+.picture {
+    width: 100%;
+}
+
+.coach__info {
+    display: flex;
+}
+
+.coach__info__flag {
+    margin-left: 10px;
+    width: 15px;
+}
+
+.table {
+    font-family: 'Lato', sans-serif;
+}
+
+.gutter>[class*='col-'] {
+    padding-left: 10px;
+}
+
+.number {
+    text-align: center;
+}
+
+h1,
+h6,
+th {
+    font-family: 'Alegreya SC', serif;
+}
